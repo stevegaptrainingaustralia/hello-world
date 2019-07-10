@@ -1,2 +1,2 @@
 hello-world
-a bit about yourself
+a byte about yourself
